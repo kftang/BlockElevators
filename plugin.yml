@@ -1,0 +1,9 @@
+name: BlockElevators
+version: 1.0
+author: kenYUNOT
+main: com.kftang.KPlugin.KPlugin
+website: kftang.com
+commands:
+  elevator:
+    description: Exclude elevator blocks
+    usage: /elevator
