@@ -1,7 +1,7 @@
 name: BlockElevators
 version: 1.0
 author: kenYUNOT
-main: com.kftang.KPlugin.KPlugin
+main: com.kftang.BlockElevators.BlockElevators
 website: kftang.com
 commands:
   elevator:
